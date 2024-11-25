@@ -3,11 +3,11 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace RazorClassLibrary1.MyFeature.Pages
 {
-    public class Page1Model : PageModel
-    {
-        public void OnGet()
-        {
+	public class Page1Model : PageModel
+	{
+		public void OnGet()
+		{
 
-        }
-    }
+		}
+	}
 }
